@@ -62,15 +62,11 @@ namespace Presentacion
         private void cargarArticulos(string filtro)
         {
             ArticuloNegocio negocioArticulos = new ArticuloNegocio();
-            List<Articulos> articulos;
             List<Articulos> articulosFiltrados = new List<Articulos>() ;
 
-
             try
-            {
-                articulos = negocioArticulos.listar(); 
-
-                foreach (Articulos item in articulos)
+            { 
+                foreach (Articulos item in listArticulos)
                 {
                     if (chequearFiltros(item,filtro)) 
                     {
