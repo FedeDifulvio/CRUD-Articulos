@@ -27,7 +27,7 @@ namespace Presentacion
 
         private void dgvArticulos_SelectionChanged(object sender, EventArgs e)
         {
-            pbArticulo.Load(dgvArticulos.CurrentRow.Cells[3].Value.ToString());
+            pbArticulo.Load(dgvArticulos.CurrentRow.Cells[4].Value.ToString());
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -48,14 +48,15 @@ namespace Presentacion
 
                 dgvArticulos.DataSource = listArticulos;
 
+                dgvArticulos.Columns["Id"].Visible = false;
                 dgvArticulos.Columns["imagenURL"].Visible = false;
 
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                MessageBox.Show("errrrror");
+                MessageBox.Show(ex.Message); 
             }
-
+           
         }
 
         private void cargarArticulos(string filtro)
@@ -156,13 +157,13 @@ namespace Presentacion
        {
             Articulos articulo = new Articulos();
 
-            articulo.Codigo = dgvArticulos.CurrentRow.Cells[0].Value.ToString();
-            articulo.Nombre = dgvArticulos.CurrentRow.Cells[1].Value.ToString();
-            articulo.Descripcion = dgvArticulos.CurrentRow.Cells[2].Value.ToString();
-            articulo.imagenURL = dgvArticulos.CurrentRow.Cells[3].Value.ToString();
-            articulo.Precio = (decimal)dgvArticulos.CurrentRow.Cells[4].Value;
-            articulo.Marca =  new Marca(dgvArticulos.CurrentRow.Cells[5].Value.ToString()); 
-            articulo.Categoria=  new Categorias(dgvArticulos.CurrentRow.Cells[6].Value.ToString());
+            articulo.Codigo = dgvArticulos.CurrentRow.Cells[1].Value.ToString();
+            articulo.Nombre = dgvArticulos.CurrentRow.Cells[2].Value.ToString();
+            articulo.Descripcion = dgvArticulos.CurrentRow.Cells[3].Value.ToString();
+            articulo.imagenURL = dgvArticulos.CurrentRow.Cells[4].Value.ToString();
+            articulo.Precio = (decimal)dgvArticulos.CurrentRow.Cells[5].Value;
+            articulo.Marca =  new Marca(dgvArticulos.CurrentRow.Cells[6].Value.ToString()); 
+            articulo.Categoria=  new Categorias(dgvArticulos.CurrentRow.Cells[7].Value.ToString());
            
             return articulo; 
        } 
@@ -179,6 +180,20 @@ namespace Presentacion
         {
            cargarArticulos(txtBuscar.Text);
           // cargarArticulosFiltrados(txtBuscar.Text);
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            ArticuloNegocio negocioArticulos = new ArticuloNegocio(); 
+
+            DialogResult respuesta = MessageBox.Show("¿Desea realmente eliminar este articulo?", "Eliminar", MessageBoxButtons.YesNo); 
+
+            if(respuesta == DialogResult.Yes)
+            {
+                negocioArticulos.eliminarArticulo(dgvArticulos.CurrentRow.Cells[0].Value.ToString());
+                cargarArticulos();
+            }
+
         }
     }
       

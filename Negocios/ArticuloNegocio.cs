@@ -13,7 +13,7 @@ namespace Negocios
         {
             List<Articulos> lista = new List<Articulos>();
             AccesoDatos datos = new AccesoDatos();
-            string consulta = "select A.Codigo, A.Nombre, A.Descripcion, M.Descripcion Marca, C.Descripcion Categorias, A.ImagenUrl, A.Precio from Articulos A inner join Categorias C on A.IdCategoria = C.Id inner join Marcas M on M.Id = A.IdMarca ";
+            string consulta = "select A.id, A.Codigo, A.Nombre, A.Descripcion, M.Descripcion Marca, C.Descripcion Categorias, A.ImagenUrl, A.Precio from Articulos A inner join Categorias C on A.IdCategoria = C.Id inner join Marcas M on M.Id = A.IdMarca";
          
             try
             {
@@ -24,6 +24,7 @@ namespace Negocios
                 while (datos.Lector.Read())
                 {
                     Articulos articulo = new Articulos();
+                    articulo.Id = (int)datos.Lector["id"]; 
                     articulo.Codigo = (string)datos.Lector["Codigo"];
                     articulo.Nombre = (string)datos.Lector["Nombre"];
                     articulo.Descripcion = (string)datos.Lector["Descripcion"];
@@ -114,6 +115,30 @@ namespace Negocios
                 datos.cerrarConexion(); 
             }
            
+        } 
+
+        public void eliminarArticulo( string id)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            string query = "delete from Articulos where id = "+ id;
+
+
+            try
+            {
+                datos.setearConsulta(query);
+                datos.ejectutarAccion();
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
         }
 
 

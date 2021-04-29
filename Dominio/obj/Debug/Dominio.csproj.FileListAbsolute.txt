@@ -16,3 +16,9 @@ E:\PROGRAMACION\C#\TP WinForm\Dominio\obj\Debug\Dominio.csprojAssemblyReference.
 E:\PROGRAMACION\C#\TP WinForm\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 E:\PROGRAMACION\C#\TP WinForm\Dominio\obj\Debug\Dominio.dll
 E:\PROGRAMACION\C#\TP WinForm\Dominio\obj\Debug\Dominio.pdb
+E:\PROGRAMACION\C#\CRUD Articulos\Dominio\bin\Debug\Dominio.dll
+E:\PROGRAMACION\C#\CRUD Articulos\Dominio\bin\Debug\Dominio.pdb
+E:\PROGRAMACION\C#\CRUD Articulos\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+E:\PROGRAMACION\C#\CRUD Articulos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\C#\CRUD Articulos\Dominio\obj\Debug\Dominio.dll
+E:\PROGRAMACION\C#\CRUD Articulos\Dominio\obj\Debug\Dominio.pdb
