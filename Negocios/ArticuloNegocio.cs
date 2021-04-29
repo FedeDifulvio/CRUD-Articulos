@@ -47,7 +47,48 @@ namespace Negocios
                 datos.cerrarConexion();
             }
 
-        } 
+        }
+
+      /*  public List<Articulos> listarFiltrado( string filtro)
+        {
+            List<Articulos> lista = new List<Articulos>();
+            AccesoDatos datos = new AccesoDatos();
+            string filtrado = "WHERE A.Nombre like '%" + filtro + "%' or  A.Codigo like '%" + filtro + "%' or  A.Descripcion like '%" + filtro + "%' or M.Descripcion like '%" + filtro + "%' C.Descrpcion like '%" + filtro + "%' or  A.Precio = " +  decimal.Parse(filtro); 
+            string consulta = "select A.Codigo, A.Nombre, A.Descripcion, M.Descripcion Marca, C.Descripcion Categorias, A.ImagenUrl, A.Precio from Articulos A inner join Categorias C on A.IdCategoria = C.Id inner join Marcas M on M.Id = A.IdMarca " + filtrado;
+            
+            try
+            {
+
+                datos.setearConsulta(consulta);
+                datos.ejecutarLectura();
+
+                while (datos.Lector.Read())
+                {
+                    Articulos articulo = new Articulos();
+                    articulo.Codigo = (string)datos.Lector["Codigo"];
+                    articulo.Nombre = (string)datos.Lector["Nombre"];
+                    articulo.Descripcion = (string)datos.Lector["Descripcion"];
+                    articulo.imagenURL = (string)datos.Lector["ImagenUrl"];
+                    articulo.Precio = (decimal)datos.Lector["Precio"];
+                    articulo.Marca = new Marca((string)datos.Lector["Marca"]);
+                    articulo.Categoria = new Categorias((string)datos.Lector["Categorias"]);
+
+                    lista.Add(articulo);
+
+                }
+                return lista;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+
+        } */
 
         public void agregarArticulo(Articulos articulo)
         {

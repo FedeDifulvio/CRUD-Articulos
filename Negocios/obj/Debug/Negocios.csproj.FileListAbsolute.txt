@@ -25,3 +25,12 @@ E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.csproj.CoreCompileInpu
 E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.csproj.CopyComplete
 E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.dll
 E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.pdb
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\bin\Debug\Negocios.dll
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\bin\Debug\Negocios.pdb
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\bin\Debug\Dominio.dll
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\bin\Debug\Dominio.pdb
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\obj\Debug\Negocios.dll
+E:\PROGRAMACION\C#\CRUD Articulos\Negocios\obj\Debug\Negocios.pdb

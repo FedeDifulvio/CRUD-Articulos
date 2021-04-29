@@ -87,7 +87,7 @@ namespace Presentacion
                 MessageBox.Show(ex.Message); 
             }
 
-        } 
+        }  
 
          public bool chequearFiltros( Articulos item, string filtro)
         {
@@ -114,13 +114,36 @@ namespace Presentacion
                 return true;
             }
 
-           /* if ((float)item.Precio == float.Parse(filtro))
+            if (item.Precio.ToString().Contains(filtro.ToString()))  
             {
                 return true;
-            }*/
+            }
 
             return false; 
         }
+
+
+        //OPCION DOS
+      /* private void cargarArticulosFiltrados(string filtro)
+        {
+            ArticuloNegocio negocioArticulos = new ArticuloNegocio();
+
+            try
+            {
+
+                listArticulos = negocioArticulos.listarFiltrado(filtro);
+
+                dgvArticulos.DataSource = listArticulos;
+
+                dgvArticulos.Columns["imagenURL"].Visible = false;
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("errrrror");
+            }
+
+        } */
 
         private void btnDetalle_Click(object sender, EventArgs e)
         {
@@ -142,7 +165,7 @@ namespace Presentacion
             articulo.Categoria=  new Categorias(dgvArticulos.CurrentRow.Cells[6].Value.ToString());
            
             return articulo; 
-       }
+       } 
 
         private void txtBuscar_TextChanged(object sender, EventArgs e)
         {
@@ -154,7 +177,8 @@ namespace Presentacion
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            cargarArticulos(txtBuscar.Text);
+           cargarArticulos(txtBuscar.Text);
+          // cargarArticulosFiltrados(txtBuscar.Text);
         }
     }
       
