@@ -110,10 +110,10 @@ namespace Presentacion
                 return true;
             }
 
-            if ((float)item.Precio == float.Parse(filtro))
+           /* if ((float)item.Precio == float.Parse(filtro))
             {
                 return true;
-            }
+            }*/
 
             return false; 
         }
