@@ -1,0 +1,27 @@
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\bin\Debug\Negocios.dll
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\bin\Debug\Negocios.pdb
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\bin\Debug\Dominio.dll
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\bin\Debug\Dominio.pdb
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\obj\Debug\Negocios.dll
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\bin\Debug\Negocios.dll
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\bin\Debug\Dominio.dll
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\bin\Debug\Dominio.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\obj\Debug\Negocios.dll
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Negocios\obj\Debug\Negocios.pdb
+E:\PROGRAMACION\C#\TP WinForm\Negocios\bin\Debug\Negocios.dll
+E:\PROGRAMACION\C#\TP WinForm\Negocios\bin\Debug\Negocios.pdb
+E:\PROGRAMACION\C#\TP WinForm\Negocios\bin\Debug\Dominio.dll
+E:\PROGRAMACION\C#\TP WinForm\Negocios\bin\Debug\Dominio.pdb
+E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.dll
+E:\PROGRAMACION\C#\TP WinForm\Negocios\obj\Debug\Negocios.pdb

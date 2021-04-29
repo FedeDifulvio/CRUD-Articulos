@@ -1,0 +1,47 @@
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Presentacion.exe
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Presentacion.pdb
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Dominio.dll
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Negocios.dll
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Dominio.pdb
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\bin\Debug\Negocios.pdb
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.Form1.resources
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.exe
+E:\Documentos\00 UTN\3º\PROYECTOS PROG III\TP WinForm\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Negocios.dll
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Pablo\Desktop\Programación 3\TP WINFORM 1\TPWinForm-ProgIII\Presentacion\obj\Debug\Presentacion.pdb
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Presentacion.exe.config
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Presentacion.exe
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Presentacion.pdb
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Dominio.dll
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Negocios.dll
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Dominio.pdb
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\bin\Debug\Negocios.pdb
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.Agregar.resources
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.Form1.resources
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.exe
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.pdb
+E:\PROGRAMACION\C#\TP WinForm\Presentacion\obj\Debug\Presentacion.Detalle.resources
