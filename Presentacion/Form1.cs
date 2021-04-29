@@ -76,8 +76,6 @@ namespace Presentacion
 
                 dgvArticulos.DataSource = articulosFiltrados; 
 
-                dgvArticulos.Columns["imagenURL"].Visible = false;
-
             }
             catch (Exception ex)
             {
