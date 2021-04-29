@@ -91,7 +91,11 @@ namespace Presentacion
 
          public bool chequearFiltros( Articulos item, string filtro)
         {
-            if(item.Nombre.ToLower() == filtro.ToLower())
+            if(item.Nombre.ToLower().Contains(filtro.ToLower())) 
+            {
+                return true;
+            }
+            if (item.Descripcion.ToLower().Contains(filtro.ToLower()))
             {
                 return true;
             }
