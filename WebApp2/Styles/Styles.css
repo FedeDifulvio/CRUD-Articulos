@@ -1,0 +1,118 @@
+﻿body {
+    background-color: #b08fbb;
+}
+* {
+   background-color: #b08fbb;*
+   
+}
+
+
+.title{
+    margin-left:50px;
+}
+
+nav{
+    z-index: 1;
+}
+
+.color-nav {
+    background-color: #f6d5d5;
+}
+
+.nav-item-custom {
+    background-color: #f6d5d5;
+    font-weight: bold;
+}
+
+span{
+    background-color: white; 
+    color: red;
+    font-weight:400;
+}
+
+
+
+
+.contenedor{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   /* border: 8px solid red;*/
+    float: left;
+    margin: auto;
+}
+
+    .contenedor .tarjeta{
+        background: #FAD7A0;
+        width: 1300px;
+        height: 600px;
+        border-radius: 8px;
+        box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+        text-align: left;
+        transition: all 0.25s;
+    } 
+
+    .detalle-img{
+        width: 500px;
+        height: 500px;
+        border-radius: 30px;
+        background: white;
+    }
+
+.contenedor-imagen {
+    background: #FAD7A0;
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    float: left;
+   /* border: 8px solid red;*/
+}
+
+.contenedor-info {
+    background: #FAD7A0;
+    display: flex;
+    width: 40%;
+    height:100%;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    float: left;
+   /* border: 8px solid red;*/
+}
+
+
+
+.titles {
+    background: #FAD7A0;
+    margin-top: 10px;
+}
+
+
+.titles-2 {
+    background: #FAD7A0;
+    margin-top: 10px;
+    color: #1f4287;
+}
+
+.titulo {
+    color: whitesmoke;
+    font-size: 60px;
+}
+
+.descripcion {
+    color: #40514e;
+    font-size: 25px;
+}
+
+.precio {
+    font-size: 60px;
+    color: #107a8b;
+}
+
+
+  
